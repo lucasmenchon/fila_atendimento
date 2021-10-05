@@ -1,0 +1,16 @@
+E:\Programing\Projeto VS\FilaAtendimento\obj\Debug\net5.0\FilaAtendimento.csproj.AssemblyReference.cache
+E:\Programing\Projeto VS\FilaAtendimento\obj\Debug\net5.0\FilaAtendimento.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programing\Projeto VS\FilaAtendimento\obj\Debug\net5.0\FilaAtendimento.AssemblyInfoInputs.cache
+E:\Programing\Projeto VS\FilaAtendimento\obj\Debug\net5.0\FilaAtendimento.AssemblyInfo.cs
+E:\Programing\Projeto VS\FilaAtendimento\obj\Debug\net5.0\FilaAtendimento.csproj.CoreCompileInputs.cache
+E:\Programing\Projeto VS\FilaAtendimento\bin\Debug\net5.0\FilaAtendimento.exe
+E:\Programing\Projeto VS\FilaAtendimento\bin\Debug\net5.0\FilaAtendimento.deps.json
+E:\Programing\Projeto VS\FilaAtendimento\bin\Debug\net5.0\FilaAtendimento.runtimeconfig.json
+E:\Programing\Projeto VS\FilaAtendimento\bin\Debug\net5.0\FilaAtendimento.runtimeconfig.dev.json
+E:\Programing\Projeto VS\FilaAtendimento\bin\Debug\net5.0\FilaAtendimento.dll
+E:\Programing\Projeto VS\FilaAtendimento\bin\Debug\net5.0\ref\FilaAtendimento.dll
+E:\Programing\Projeto VS\FilaAtendimento\bin\Debug\net5.0\FilaAtendimento.pdb
+E:\Programing\Projeto VS\FilaAtendimento\obj\Debug\net5.0\FilaAtendimento.dll
+E:\Programing\Projeto VS\FilaAtendimento\obj\Debug\net5.0\ref\FilaAtendimento.dll
+E:\Programing\Projeto VS\FilaAtendimento\obj\Debug\net5.0\FilaAtendimento.pdb
+E:\Programing\Projeto VS\FilaAtendimento\obj\Debug\net5.0\FilaAtendimento.genruntimeconfig.cache
