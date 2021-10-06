@@ -18,10 +18,10 @@ namespace FilaAtendimento
                 {
                     case "1":
 
-                        Paciente[] paciente = new Paciente[4];
+                        Paciente[] paciente = new Paciente[3];
                         Console.WriteLine("Cadastro: ");
 
-                        for (p = 0; p < 4; p++)
+                        for (p = 0; p < 3; p++)
                         {
                             paciente[p] = new Paciente();
 
@@ -31,41 +31,21 @@ namespace FilaAtendimento
                             paciente[p].idade = int.Parse(Console.ReadLine());
                         }
 
-                        for (p = 0; p < 4; p++)
-                        {
-                            Console.WriteLine("Nome: {0}", paciente[p].nome);
-                            Console.WriteLine("Idade: {0}", paciente[p].idade);
-                        }
-
                         Console.WriteLine("Iniciando Atendimento: ");
 
-                        for (p = 0; p < 4; p++)
-                        {
+                        for (p = 0; p < 3; p++) {
+
                             if (paciente[p].idade >= 60)
                             {
-                                Console.WriteLine("Chamando...");
-                                Console.WriteLine("Nome: {0}", paciente[p].nome);
-                                Console.WriteLine("Idade: {0}", paciente[p].idade);
-                                Console.ReadKey();
-                                
-                            }
-                            else 
-                            {
-                                Console.WriteLine("Nome: {0}", paciente[p].nome);
-                                Console.WriteLine("Idade: {0}", paciente[p].idade);
-                                Console.WriteLine("Aguarde..");
-                                Console.ReadKey();
-                                
-                            }
-                            if (paciente[p].idade <= 60) {
 
                                 Console.WriteLine("Chamando...");
                                 Console.WriteLine("Nome: {0}", paciente[p].nome);
                                 Console.WriteLine("Idade: {0}", paciente[p].idade);
                                 Console.ReadKey();
-                                
-
                             }
+
+                       
+
 
                         }
 
@@ -77,26 +57,26 @@ namespace FilaAtendimento
 
                     case "2":
 
-                        Paciente[] pacientes = new Paciente[10];
+                        paciente = new Paciente[10];
                         Console.WriteLine("Alteração de cadastro: ");
 
                         for (p = 0; p < 10; p++)
                         {
-                            pacientes[p] = new Paciente();
+                            paciente[p] = new Paciente();
                         }
 
                         for (p = 0; p < 10; p++)
                         {
                             Console.WriteLine("Digite seu nome: ");
-                            pacientes[p].nome = Console.ReadLine();
+                            paciente[p].nome = Console.ReadLine();
                             Console.WriteLine("Digite sua idade: ");
-                            pacientes[p].idade = int.Parse(Console.ReadLine());
+                            paciente[p].idade = int.Parse(Console.ReadLine());
                         }
 
                         for (p = 0; p < 10; p++)
                         {
-                            Console.WriteLine("Nome: {0}", pacientes[p].nome);
-                            Console.WriteLine("Idade: {0}", pacientes[p].idade);
+                            Console.WriteLine("Nome: {0}", paciente[p].nome);
+                            Console.WriteLine("Idade: {0}", paciente[p].idade);
                         }
                         Console.WriteLine("Tecle enter para voltar ao menu principal: ");
                         Console.ReadKey();
