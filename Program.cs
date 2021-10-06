@@ -19,35 +19,49 @@ namespace FilaAtendimento
                     case "1":
 
                         Paciente[] paciente = new Paciente[3];
-                        Console.WriteLine("Cadastro: ");
+                        Console.WriteLine("Cadastro para atendimento: ");
 
                         for (p = 0; p < 3; p++)
                         {
                             paciente[p] = new Paciente();
-
                             Console.WriteLine("Digite seu nome: ");
                             paciente[p].nome = Console.ReadLine();
                             Console.WriteLine("Digite sua idade: ");
                             paciente[p].idade = int.Parse(Console.ReadLine());
-                        }
 
-                        Console.WriteLine("Iniciando Atendimento: ");
-
-                        for (p = 0; p < 3; p++) {
 
                             if (paciente[p].idade >= 60)
                             {
-
                                 Console.WriteLine("Chamando...");
                                 Console.WriteLine("Nome: {0}", paciente[p].nome);
                                 Console.WriteLine("Idade: {0}", paciente[p].idade);
-                                Console.ReadKey();
+                                
                             }
+                            else
+                            {
+                                Console.WriteLine("Nome: {0}", paciente[p].nome);
+                                Console.WriteLine("Idade: {0}", paciente[p].idade);
+                                
+                            }
+                            
 
-                       
+                        }
+                        Console.WriteLine("Atendimento geral");
+                        for (p = 0; p < 3; p++)
+                        {
+                            if (paciente[p].idade <= 59)
+                            {
+                                Console.ReadKey();
+                                Console.WriteLine("Chamando...");
+                                Console.WriteLine("Nome: {0}", paciente[p].nome);
+                                Console.WriteLine("Idade: {0}", paciente[p].idade);
+                                
+                            }
+                                                       
 
 
                         }
+                        Console.ReadKey();
 
                         Console.WriteLine("Tecle enter para voltar ao menu principal: ");
                         Console.ReadKey();
@@ -84,25 +98,24 @@ namespace FilaAtendimento
                         menu = MenuPrincipal.menuPrincipal();
                         break;
 
-                    case "3":
+                    case "Q":
 
-                        
-
-                        Console.ReadKey();
                         Console.Clear();
-                        menu = MenuPrincipal.menuPrincipal();
+                        Console.WriteLine("Programa encerrado!");
+                        Environment.Exit(0);
                         break;
 
 
                     default:
+                        Console.WriteLine("Opção invalida.");
+                        Console.WriteLine("Tecle enter para voltar ao menu.");
+                        Console.ReadKey();
+                        Console.Clear();
+                        menu = MenuPrincipal.menuPrincipal();
                         break;
                 }
+
             } while  (true);
-
-
-
-
-
 
         }
     }

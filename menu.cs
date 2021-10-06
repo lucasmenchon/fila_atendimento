@@ -14,7 +14,7 @@ namespace FilaAtendimento
 
             Console.WriteLine("(1) - Cadastro");
             Console.WriteLine("(2) - Alteração de Cadastro");
-            Console.WriteLine("(3) - Sair");
+            Console.WriteLine("(Q) - Sair");
             menu = Console.ReadLine();
             return menu.ToUpper();
         }

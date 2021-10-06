@@ -10,7 +10,7 @@ namespace FilaAtendimento
     {
         public string nome;
         public int idade;
-
+        
     }
 
 }
