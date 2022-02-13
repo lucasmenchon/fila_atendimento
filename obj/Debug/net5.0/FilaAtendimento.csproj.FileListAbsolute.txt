@@ -14,3 +14,19 @@ E:\Programing\Projeto VS\FilaAtendimento\obj\Debug\net5.0\FilaAtendimento.dll
 E:\Programing\Projeto VS\FilaAtendimento\obj\Debug\net5.0\ref\FilaAtendimento.dll
 E:\Programing\Projeto VS\FilaAtendimento\obj\Debug\net5.0\FilaAtendimento.pdb
 E:\Programing\Projeto VS\FilaAtendimento\obj\Debug\net5.0\FilaAtendimento.genruntimeconfig.cache
+D:\Programing\.NET\FilaAtendimento\bin\Debug\net5.0\FilaAtendimento.exe
+D:\Programing\.NET\FilaAtendimento\bin\Debug\net5.0\FilaAtendimento.deps.json
+D:\Programing\.NET\FilaAtendimento\bin\Debug\net5.0\FilaAtendimento.runtimeconfig.json
+D:\Programing\.NET\FilaAtendimento\bin\Debug\net5.0\FilaAtendimento.runtimeconfig.dev.json
+D:\Programing\.NET\FilaAtendimento\bin\Debug\net5.0\FilaAtendimento.dll
+D:\Programing\.NET\FilaAtendimento\bin\Debug\net5.0\ref\FilaAtendimento.dll
+D:\Programing\.NET\FilaAtendimento\bin\Debug\net5.0\FilaAtendimento.pdb
+D:\Programing\.NET\FilaAtendimento\obj\Debug\net5.0\FilaAtendimento.csproj.AssemblyReference.cache
+D:\Programing\.NET\FilaAtendimento\obj\Debug\net5.0\FilaAtendimento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\.NET\FilaAtendimento\obj\Debug\net5.0\FilaAtendimento.AssemblyInfoInputs.cache
+D:\Programing\.NET\FilaAtendimento\obj\Debug\net5.0\FilaAtendimento.AssemblyInfo.cs
+D:\Programing\.NET\FilaAtendimento\obj\Debug\net5.0\FilaAtendimento.csproj.CoreCompileInputs.cache
+D:\Programing\.NET\FilaAtendimento\obj\Debug\net5.0\FilaAtendimento.dll
+D:\Programing\.NET\FilaAtendimento\obj\Debug\net5.0\ref\FilaAtendimento.dll
+D:\Programing\.NET\FilaAtendimento\obj\Debug\net5.0\FilaAtendimento.pdb
+D:\Programing\.NET\FilaAtendimento\obj\Debug\net5.0\FilaAtendimento.genruntimeconfig.cache

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programing\\Projeto VS\\FilaAtendimento\\FilaAtendimento.csproj": {}
+    "D:\\Programing\\.NET\\FilaAtendimento\\FilaAtendimento.csproj": {}
   },
   "projects": {
-    "E:\\Programing\\Projeto VS\\FilaAtendimento\\FilaAtendimento.csproj": {
+    "D:\\Programing\\.NET\\FilaAtendimento\\FilaAtendimento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programing\\Projeto VS\\FilaAtendimento\\FilaAtendimento.csproj",
+        "projectUniqueName": "D:\\Programing\\.NET\\FilaAtendimento\\FilaAtendimento.csproj",
         "projectName": "FilaAtendimento",
-        "projectPath": "E:\\Programing\\Projeto VS\\FilaAtendimento\\FilaAtendimento.csproj",
+        "projectPath": "D:\\Programing\\.NET\\FilaAtendimento\\FilaAtendimento.csproj",
         "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-        "outputPath": "E:\\Programing\\Projeto VS\\FilaAtendimento\\obj\\",
+        "outputPath": "D:\\Programing\\.NET\\FilaAtendimento\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "E:\\Programas\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
